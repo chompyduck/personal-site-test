@@ -38,6 +38,8 @@ hr {
 
 .profile {
   line-height: 3;
+  padding-right: 300;
+  padding-left: 300;
 }
 
 .top-container {
@@ -48,7 +50,6 @@ hr {
 
 .middle-container {
   background-color: #BFFFF0;
-  margin: 100px auto 100px auto;
 }
 
 .bottom-container {
