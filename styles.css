@@ -48,8 +48,7 @@ hr {
 
 .middle-container {
   background-color: #BFFFF0;
-  padding-right: 50px;
-  padding-left: 50px;
+  margin: 100px auto 100px auto;
 }
 
 .bottom-container {
